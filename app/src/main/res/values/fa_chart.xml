@@ -1,0 +1,25 @@
+<resources>
+    <string name="fa_share_square" translatable="false">&#xf14d;</string>
+    <string name="fa_share" translatable="false">&#xf064;</string>
+    <string name="fa_check_circle" translatable="false">&#xf058;</string>
+    <string name="fa_flag" translatable="false">&#xf024;</string>
+    <string name="fa_glass_martini" translatable="false">&#xf000;</string>
+    <string name="fa_dislike_fill" translatable="false">&#xf165;</string>
+    <string name="fa_dislike_outline" translatable="false">&#xf088;</string>
+    <string name="fa_like_fill" translatable="false">&#xf164;</string>
+    <string name="fa_unlike_outline" translatable="false">&#xf087;</string>
+    <string name="fa_comment" translatable="false">&#xf086;</string>
+    <string name="fa_share1" translatable="false">&#xf1e0;</string>
+    <string name="fa_close" translatable="false">&#xf00d;</string>
+    <string name="fa_tags" translatable="false">&#xf02c;</string>
+    <string name="fa_more" translatable="false">&#xf142;</string>
+    <string name="fa_location" translatable="false">&#xf041;</string>
+    <string name="fa_edit" translatable="false">&#xf044;</string>
+    <string name="fa_delete" translatable="false">&#xf014;</string>
+    <string name="fa_play" translatable="false">&#xf144;</string>
+    <string name="fa_pause" translatable="false">&#xf04c;</string>
+    <string name="fa_music" translatable="false">&#xf001;</string>
+    <string name="fa_video" translatable="false">&#xf03d;</string>
+    <string name="fa_camera" translatable="false">&#xf030;</string>
+
+</resources>

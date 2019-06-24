@@ -1,0 +1,15 @@
+
+
+<resources>
+
+    <attr name="emptyView" format="reference" />
+    <attr name="loadMoreView" format="reference" />
+    <attr name="loadMoreThreshold" format="integer" />
+
+    <declare-styleable name="FeedRecycler">
+        <attr name="emptyView" />
+        <attr name="loadMoreView" />
+        <attr name="loadMoreThreshold" />
+    </declare-styleable>
+
+</resources>
